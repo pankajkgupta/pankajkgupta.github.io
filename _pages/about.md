@@ -8,10 +8,20 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student in Neuroscience program at the University of British Columbia, department of psychiatry. I am located at the djavad mowafaghian center for brain health within UBC Hospital.
-At work, I develop computational tools and collaborate with coworkers to explore relation between brain and behavior with in vivo imaging. With an engineering background in computer science, I am interested in building novel tools and platforms to address neuroscientific problems in health and disease. My research involves neuronal calcium imaging, closed-loop neurofeedback using a Brain-Computer Interface (BCI) to investigate plasticity and learning. 
+I am a postdoctoral researcher in Neuroscience at Stanford University, where I study how the cortex and spinal cord interact during motor learning, and what those interactions tell us about recovery after stroke.
+
+I completed my PhD in Neuroscience at the University of British Columbia with Prof. Timothy H. Murphy, where my dissertation work centered on shaping cortical and behavioral motor dynamics with real-time closed-loop feedback. There I built [CLoPy](/publication/2024-11-06-clopy), an open-source platform that reads out mesoscale cortical activity or tracked body movements in mice and returns graded auditory feedback within tens of milliseconds, and used it to ask how animals learn to control specific cortical regions and specific movements.
+
+My background is in computer science and engineering, and much of my work sits where tool-building meets systems neuroscience: mesoscale widefield and two-photon calcium imaging, markerless pose tracking, brain-computer interfaces, and computational models (recurrent neural networks, hidden Markov models, tensor decomposition) for making sense of large-scale neural recordings. Before neuroscience, I worked on brain-machine interfaces for assistive smart homes at ATR International in Kyoto, on computational analysis of children's behavior at Brown University, and as a software developer in industry.
+
+Research interests
+======
+* Cortical and spinal contributions to motor learning and stroke recovery
+* Real-time closed-loop neurofeedback and brain-computer interfaces
+* Mesoscale cortical imaging and multi-region cortical interactions
+* Computational modeling of neural dynamics and behavior
+* Open-source tools for neuroscience
 
 In my free time
 ======
-Traveling and outdoor activities, mountains, and water excite me. I love meeting new people and learning about their culture and food. 
-
+Traveling and outdoor activities, mountains, and water excite me. I love meeting new people and learning about their culture and food.

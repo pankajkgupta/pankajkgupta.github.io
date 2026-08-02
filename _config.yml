@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Pankaj Gupta"
 title_separator          : "-"
 name                     : &name "Pankaj Gupta"
-description              : &description "Graduate Student at University of British Columbia"
+description              : &description "Postdoctoral Researcher in Neuroscience at Stanford University"
 url                      : https://pankajkgupta.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "pankajkgupta.github.io"
@@ -75,19 +75,19 @@ social:
 analytics:
   provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          :	"UA-70400959-1"
+    tracking_id          : "UA-70400959-1"
 
 
 # Site Author
 author:
   name             : "Pankaj Gupta"
   avatar           : "profile.png"
-  bio              : "Graduate Student at University of British Columbia, Neuroscience"
-  location         : "Vancouver, Canada"
-  employer         :
+  bio              : "Postdoctoral Researcher, Neuroscience. Closed-loop systems, motor learning, and cortical dynamics."
+  location         : "Stanford, California, USA"
+  employer         : "Stanford University"
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?hl=en&authuser=1&user=3Q5BbaAAAAAJ"
-  email            :
+  email            : "pankajg@stanford.edu"
   researchgate     : "https://www.researchgate.net/profile/Pankaj-Gupta-67"
   uri              :
   bitbucket        :
